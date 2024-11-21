@@ -1,9 +1,8 @@
-[![GitHub Issues](https://img.shields.io/github/issues/Ozencb/yts-scraper)](https://github.com/Ozencb/yts-scraper/issues)
-[![Stars](https://img.shields.io/github/stars/Ozencb/yts-scraper)](https://github.com/Ozencb/yts-scraper)
-[![Forks](https://img.shields.io/github/forks/Ozencb/yts-scraper)](https://github.com/Ozencb/yts-scraper)
-[![MIT](https://img.shields.io/github/license/Ozencb/yts-scraper)](../master/LICENSE)
+# Torrent files by YTS Scraper
 
-# YTS Scraper
+## This is the collection of 50K+ .torrent file (1080P Quality)
+Just download IMDB Rating List folder to your computer
+no need to use **yts-scraper** all files are update to 21-11-2024
 
 ![](Gif.gif)
 
