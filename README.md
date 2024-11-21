@@ -7,25 +7,25 @@ All files are update to 21-11-2024
 
 ### Folder List
 
-**IMDB Rating 0+** 		- 
+**IMDB Rating 0+** 		- include 339 movies .torrent file
 
-**IMDB Rating 1+** 		- 
+**IMDB Rating 1+** 		- include 118 movies .torrent file
 
-**IMDB Rating 2+** 		- 
+**IMDB Rating 2+** 		- include 996 movies .torrent file
 
-**IMDB Rating 3+** 		- 
+**IMDB Rating 3+** 		- include 3016 movies .torrent file
 
-**IMDB Rating 4+** 		- 
+**IMDB Rating 4+** 		- include 6374 movies .torrent file
 
-**IMDB Rating 5+** 		- 
+**IMDB Rating 5+** 		- include 12321 movies .torrent file
 
-**IMDB Rating 6+** 		- 
+**IMDB Rating 6+** 		- include 17288 movies .torrent file
 
-**IMDB Rating 7+** 		- 
+**IMDB Rating 7+** 		- include 10051 movies .torrent file
 
-**IMDB Rating 8+** 		- 
+**IMDB Rating 8+** 		- include 1177 movies .torrent file
 
-**IMDB Rating 9+** 		- 
+**IMDB Rating 9+** 		- include 21 movies .torrent file
 
 ![](Gif.gif)
 
