@@ -5,9 +5,6 @@ Just download IMDB Rating List folder to your computer
 No need to use **yts-scraper** by yourself.
 All files are update to 21-11-2024
 
-<text color=red>ERROR</text>
-
-
 ## Downloading torrent content is illegal; please be aware
 
 ဒီဖိုင်လေးကို လုပ်ဖြစ်တဲ့ ရည်ရွယ်ချက်ကတော့ movie recap သမားတွေ ဖြစ်ဖြစ် 
