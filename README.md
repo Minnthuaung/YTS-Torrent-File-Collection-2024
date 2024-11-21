@@ -2,7 +2,30 @@
 
 ## This is the collection of 50K+ .torrent file (1080P Quality)
 Just download IMDB Rating List folder to your computer
-no need to use **yts-scraper** all files are update to 21-11-2024
+No need to use **yts-scraper** by yourself.
+All files are update to 21-11-2024
+
+### Folder List
+
+**IMDB Rating 0+** 		- 
+
+**IMDB Rating 1+** 		- 
+
+**IMDB Rating 2+** 		- 
+
+**IMDB Rating 3+** 		- 
+
+**IMDB Rating 4+** 		- 
+
+**IMDB Rating 5+** 		- 
+
+**IMDB Rating 6+** 		- 
+
+**IMDB Rating 7+** 		- 
+
+**IMDB Rating 8+** 		- 
+
+**IMDB Rating 9+** 		- 
 
 ![](Gif.gif)
 
